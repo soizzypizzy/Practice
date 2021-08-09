@@ -31,6 +31,7 @@ public class Recursive {
 			return n * facto(n - 1);
 		}
 	}
+	
 	// 피보나치
 	static int fibo(int n) {
 		if(n == 1 || n == 2) {
